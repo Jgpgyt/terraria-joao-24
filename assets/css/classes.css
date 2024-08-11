@@ -1,0 +1,64 @@
+.main-bg {
+  background-image: url('../img/evening-mountains-wallpaper-2048x1152_49.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+.p1-bg {
+  background-image: url('../img/gCVsSGN.jpeg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+.p2-bg {
+  background-image: url('../img/terraria-9jnp0hmkf1tqc0l2.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+.p3-bg {
+  background-image: url('../img/terraria-background-ajw5orc37bu7tssd.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+.p4-bg {
+  background-image: url('../img/terraria-journey-s-end-hvz3a6msodfl15yh.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+.p6-bg {
+  background-image: url('../img/terraria-pc-gaming-hd-wallpaper-preview.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+.white-bg {
+  background: var(--white-color);
+}
+
+.main-content {
+  max-width: 120rem;
+  /* 120rem = 1200px */
+  margin: 0 auto;
+  /* padding: 3rem; */
+  padding: 10rem var(--gap);
+  /* correção */
+}
+
+.section {
+  min-height: 100vh;
+  /* parte 3/4 */
+  /* color: var(--primary-color); */
+}
+
+/* parte 3 */
+.menu-spacing {
+  height: 6.5rem;
+}
+
+body .full-width{
+  width: 100%;
+  flex: 1 1 100%;
+}
